@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/class-diagram
+title The tree is a Directed Graph
+hide empty members
+hide circle
+
+class "Node" as n1
+class "Node" as n2
+n1 --> n2: has child (0,n)
+n2 --> n1: has parent (0,1)
+@enduml

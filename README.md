@@ -7,6 +7,8 @@ Go: 1.18
 Provides a basic but flexible hierarchical tree data structure together with an implementation of a 
 Visitor pattern for tree manipulation.
 
+![docs/tree-graph.puml](docs/tree-graph-The_tree_is_a_Directed_Graph.png)
+
 ## How
 
 `import "github.com/chippyash/go-hierarchy-tree/tree"`
