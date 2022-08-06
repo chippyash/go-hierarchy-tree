@@ -1,7 +1,7 @@
 package tree_test
 
 import (
-	"github.com/chippyash/go-hierarchy-tree"
+	"github.com/chippyash/go-hierarchy-tree/tree"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
